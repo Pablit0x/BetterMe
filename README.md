@@ -1,6 +1,4 @@
-# BetterMe - Android Task Management and Mood Tracking App 
-
-![Logo](app_logo.png)
+# BetterMe - Android Task Management and Mood Tracking App <img src="betterMe.jpeg" alt="Logo" width="30" height="30">
 
 The Major Project Android App is a task management and mood tracking application developed as part of a major project. It allows users to create and manage their to-do lists, rate their daily mood, and collaborate with supervisors for scheduling activities and receiving feedback. The app is built using the modern Jetpack Compose framework for a sleek and intuitive user interface. Data is stored online using Cloud Firestore, and user authentication is handled by Firebase Authentication service. The app planning process was organized using Trello, and the app's design was prototyped using Figma.
 
