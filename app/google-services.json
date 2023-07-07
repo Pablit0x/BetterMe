@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049476024815",
+    "firebase_url": "https://mood-tracker-a0dc7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mood-tracker-a0dc7",
+    "storage_bucket": "mood-tracker-a0dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049476024815:android:bff9acb5d38c09edb10e1a",
+        "android_client_info": {
+          "package_name": "com.example.moodtracker_jetpackcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049476024815-dm6fei4idf74sc7e211s7iruv8g1fhge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVidGNip05JTrWRZu5UwYpjhiLDQKqiPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049476024815-dm6fei4idf74sc7e211s7iruv8g1fhge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
